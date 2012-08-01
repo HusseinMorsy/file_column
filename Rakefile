@@ -3,7 +3,7 @@ Bundler.setup
 
 task :default => [:test]
 
-PKG_NAME = "file-column"
+PKG_NAME = "file_column"
 PKG_VERSION = "0.3.2"
 
 PKG_DIR = "release/#{PKG_NAME}-#{PKG_VERSION}"

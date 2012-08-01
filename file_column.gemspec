@@ -4,7 +4,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{file-column}
+  s.name = %q{file_column}
   s.version = "0.3.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -47,7 +47,7 @@ Gem::Specification.new do |s|
   s.homepage = %q{http://github.com/partizan/file_column}
   s.post_install_message = %q{**************************************************
 
-  Thank you for installing file-column-0.3.2
+  Thank you for installing file_column-0.3.2
   
 **************************************************
 }
